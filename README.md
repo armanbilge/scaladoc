@@ -1,1 +1,1 @@
-# scaladoc
+# scaladoc.io

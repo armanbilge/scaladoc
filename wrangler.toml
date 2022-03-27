@@ -1,0 +1,13 @@
+name = "scaladoc-io"
+
+account_id = "ce526c48cdf42adc94de7aebf87fea38"
+workers_dev = true
+route = ""
+compatibility_date = "2022-03-27"
+
+[build]
+command = "npm run build"
+
+[build.upload]
+dir = "dist"
+main = "./index.mjs"
